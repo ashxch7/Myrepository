@@ -12,7 +12,7 @@ elif c == 3:
     d = a * b
     print(d)
 elif c == 4:
-    d = a / b
+    d = a // b
     print(d)
 else:
     print("Invalid Input")
